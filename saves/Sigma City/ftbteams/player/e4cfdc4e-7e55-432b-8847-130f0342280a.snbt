@@ -1,0 +1,17 @@
+{
+	id: "e4cfdc4e-7e55-432b-8847-130f0342280a"
+	type: "player"
+	player_name: "joebidenskidney"
+	ranks: {
+		e4cfdc4e-7e55-432b-8847-130f0342280a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "joebidenskidney"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9A59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

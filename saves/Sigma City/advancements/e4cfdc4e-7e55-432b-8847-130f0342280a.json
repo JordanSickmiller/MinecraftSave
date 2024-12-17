@@ -6314,15 +6314,33 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/bisque": {
+  "yungscavebiomes:recipes/building_blocks/ancient_sandstone": {
     "criteria": {
-      "has_any_ingredient": "2024-12-14 17:50:36 -0500"
+      "has_ancient_sand": "2024-12-14 17:04:28 -0500"
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+  "yungscavebiomes:recipes/building_blocks/brittle_ancient_sandstone": {
     "criteria": {
-      "has_gunpowder": "2024-12-14 17:32:10 -0500"
+      "has_sand": "2024-12-14 17:04:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-14 17:05:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-14 17:05:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-14 17:05:14 -0500"
     },
     "done": true
   },
@@ -6332,15 +6350,93 @@
     },
     "done": true
   },
-  "boatload:recipes/transportation/large_warped_boat": {
+  "supplementaries:recipes/sugar_cube": {
     "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
+      "has_sugar": "2024-12-14 17:29:31 -0500"
     },
     "done": true
   },
-  "boatload:recipes/transportation/bamboo_furnace_raft": {
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
     "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
+      "has_sugar": "2024-12-14 17:29:31 -0500"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "has_sugar": "2024-12-14 17:29:31 -0500"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/marshmallow_stick": {
+    "criteria": {
+      "has_sugar": "2024-12-14 17:29:31 -0500"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/cave_pumpkin_pie": {
+    "criteria": {
+      "has_sugar": "2024-12-14 17:29:31 -0500"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-12-14 17:30:50 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2024-12-14 17:32:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-14 17:32:10 -0500"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/silver_bomb": {
+    "criteria": {
+      "has_gunpowder": "2024-12-14 17:32:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-14 17:32:10 -0500"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2024-12-14 17:32:15 -0500"
+    },
+    "done": true
+  },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2024-12-14 17:32:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-14 17:35:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-14 17:35:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-14 17:35:21 -0500"
     },
     "done": true
   },
@@ -6350,57 +6446,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_drawer": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/fir_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "boatload:recipes/transportation/large_spruce_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/polished_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-14 17:36:50 -0500"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/bow_repairing": {
-    "criteria": {
-      "has_bow": "2024-12-14 17:39:20 -0500"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/amethyst_slab": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-14 17:36:57 -0500"
-    },
-    "done": true
-  },
-  "boatload:recipes/transportation/warped_furnace_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
     },
     "done": true
   },
@@ -6416,12 +6464,6 @@
     },
     "done": true
   },
-  "yungscavebiomes:recipes/building_blocks/ancient_sandstone": {
-    "criteria": {
-      "has_ancient_sand": "2024-12-14 17:04:28 -0500"
-    },
-    "done": true
-  },
   "twigs:recipes/calcite/polished_calcite_stonecutting": {
     "criteria": {
       "has_item": "2024-12-14 17:36:50 -0500"
@@ -6431,12 +6473,6 @@
   "twigs:recipes/calcite/calcite_slab": {
     "criteria": {
       "has_item": "2024-12-14 17:36:50 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2024-12-14 17:35:21 -0500"
     },
     "done": true
   },
@@ -6452,66 +6488,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2024-12-14 17:32:10 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/biomesoplenty/stripped_mahogany_post": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/willow_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_bench": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/smooth_amethyst": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-14 17:36:57 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_lattice": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-14 17:36:57 -0500"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/boat_jar": {
-    "criteria": {
-      "minecraft:boats": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/transformation_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/db/biomesoplenty/mahogany_palisade": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-14 17:36:50 -0500"
@@ -6524,147 +6500,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/barbecue_stick": {
-    "criteria": {
-      "has_onion": "2024-12-14 18:20:43 -0500"
-    },
-    "done": true
-  },
-  "twigs:recipes/amethyst_blocks/polished_amethyst": {
-    "criteria": {
-      "has_item": "2024-12-14 17:36:57 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/mahogany_sign": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "boatload:recipes/transportation/mangrove_furnace_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2024-12-14 17:35:21 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_drawer": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "boatload:recipes/transportation/jungle_furnace_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_corner_trim": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_side_table": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/calcite_paver_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-14 17:36:50 -0500"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_sanded_wood": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/calcite_pillar_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-14 17:36:50 -0500"
-    },
-    "done": true
-  },
-  "boatload:recipes/transportation/large_jungle_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/biomesoplenty/vertical_mahogany_planks": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/db/biomesoplenty/mahogany_support": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "twigs:recipes/amethyst_blocks/polished_amethyst_stonecutting": {
-    "criteria": {
-      "has_item": "2024-12-14 17:36:57 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/abnbl/biomesoplenty/large_mahogany_boat": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "boatload:recipes/transportation/crimson_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sugar_cube": {
-    "criteria": {
-      "has_sugar": "2024-12-14 17:29:31 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/tf/biomesoplenty/mahogany_banister": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/amethyst_bricks_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-14 17:36:57 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/biomesoplenty/mahogany_post": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
     },
     "done": true
   },
@@ -6680,39 +6524,9 @@
     },
     "done": true
   },
-  "boatload:recipes/transportation/oak_furnace_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "boatload:recipes/transportation/acacia_furnace_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_shelf": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-14 17:36:57 -0500"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/calcite_plate_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-14 17:36:50 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_counter": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
     },
     "done": true
   },
@@ -6722,51 +6536,9 @@
     },
     "done": true
   },
-  "boatload:recipes/transportation/wide_bamboo_raft": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_table": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/maple_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/calcite_paver_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-14 17:36:50 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/palm_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "boatload:recipes/transportation/large_birch_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cooked_crab": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-14 17:50:36 -0500"
     },
     "done": true
   },
@@ -6776,75 +6548,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_vertical_trim": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/mahogany_fence": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2024-12-14 17:05:14 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/abnbl/biomesoplenty/mahogany_furnace_boat": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-14 18:20:43 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_chair": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_button": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "boatload:recipes/transportation/spruce_furnace_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
   "twigs:recipes/basalt_blocks/smooth_basalt_brick_slab_from_smooth_basalt_stonecutting": {
     "criteria": {
       "has_item": "2024-12-14 17:36:50 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_flower_box": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
     },
     "done": true
   },
@@ -6854,51 +6560,15 @@
     },
     "done": true
   },
-  "galosphere:recipes/combat/silver_bomb": {
-    "criteria": {
-      "has_gunpowder": "2024-12-14 17:32:10 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/db/biomesoplenty/mahogany_beam": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/bp/biomesoplenty/mahogany_backpack_shelf": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/calcite_bricks_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-14 17:36:50 -0500"
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/amethyst_slab_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-14 17:36:57 -0500"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/polished_calcite_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-14 17:36:50 -0500"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/canopy_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/tf/biomesoplenty/hollow_mahogany_log": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
     },
     "done": true
   },
@@ -6920,105 +6590,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/time_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cobbled_calcite_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-14 17:36:50 -0500"
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-14 17:36:57 -0500"
-    },
-    "done": true
-  },
-  "quark:get_forgotten_hat": {
-    "criteria": {
-      "get_forgotten_hat": "2024-12-14 17:30:50 -0500"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/shadow_berry_jelly_potion": {
-    "criteria": {
-      "has_sugar": "2024-12-14 17:29:31 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "boatload:recipes/transportation/large_oak_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/biomesoplenty/mahogany_trapped_chest": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/calcite_shingles_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-14 17:36:50 -0500"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/smooth_amethyst_stairs_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-14 17:36:57 -0500"
-    },
-    "done": true
-  },
-  "boatload:recipes/transportation/large_dark_oak_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "boatload:recipes/transportation/large_acacia_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/amethyst_stairs": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-14 17:36:57 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_fancy_bed": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_shutter": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
     },
     "done": true
   },
@@ -7040,21 +6620,9 @@
     },
     "done": true
   },
-  "aether:recipes/transportation/skyroot_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/basalt_brick_slabs_from_smooth_stonecutting": {
     "criteria": {
       "has_block.minecraft.smooth_basalt": "2024-12-14 17:36:50 -0500"
-    },
-    "done": true
-  },
-  "boatload:recipes/transportation/warped_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
     },
     "done": true
   },
@@ -7082,81 +6650,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_table": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/calcite_shingle_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-14 17:36:50 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_chair": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/fd/biomesoplenty/mahogany_cabinet": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "suppsquared:recipes/decorations/biomesoplenty/item_shelf_mahogany": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/crab_cakes": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-14 17:50:36 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_desk": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "aether_redux:recipes/transportation/glacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "aether_redux:recipes/transportation/crystal_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_grottol": {
-    "criteria": {
-      "grottol": "2024-12-14 17:32:15 -0500"
     },
     "done": true
   },
@@ -7166,45 +6662,9 @@
     },
     "done": true
   },
-  "crabbersdelight:main/reach_for_the_sea_stars": {
-    "criteria": {
-      "crab_claw": "2024-12-14 18:03:02 -0500"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/transportation/bloom_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_pillar_trim": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
   "twigs:recipes/basalt_blocks/smooth_basalt_bricks_stonecutting": {
     "criteria": {
       "has_item": "2024-12-14 17:36:50 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_couch": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_parquet": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
     },
     "done": true
   },
@@ -7220,27 +6680,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2024-12-14 17:39:20 -0500"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-14 17:36:50 -0500"
-    },
-    "done": true
-  },
-  "aether_redux:recipes/transportation/blightwillow_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
     },
     "done": true
   },
@@ -7262,36 +6704,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/pancake_fd": {
-    "criteria": {
-      "has_sugar": "2024-12-14 17:29:31 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_nightstand": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/calcite_pavers_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-14 17:36:50 -0500"
@@ -7304,111 +6716,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/biomesoplenty/hollow_mahogany_log": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_shelf": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "boatload:recipes/transportation/large_crimson_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "aether_redux:recipes/transportation/cloudcap_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "delightful:recipes/food/marshmallow_stick": {
-    "criteria": {
-      "has_sugar": "2024-12-14 17:29:31 -0500"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-14 18:20:43 -0500"
-    },
-    "done": true
-  },
-  "aether_redux:recipes/transportation/jellyshroom_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "twigs:recipes/amethyst_blocks/cut_amethyst_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_item": "2024-12-14 17:36:57 -0500"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_foliaath": {
-    "criteria": {
-      "foliaath": "2024-12-14 18:06:18 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/faf/biomesoplenty/mahogany_beehive": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-14 17:36:57 -0500"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/calcite_tile_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-14 17:36:50 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/biomesoplenty/mahogany_bookshelf": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/sorting_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2024-12-14 17:05:14 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/pine_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "onion": "2024-12-14 18:20:43 -0500"
-    },
-    "done": true
-  },
-  "boatload:recipes/transportation/dark_oak_furnace_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
     },
     "done": true
   },
@@ -7418,75 +6728,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/mining_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "boatload:recipes/transportation/cherry_furnace_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/vp/biomesoplenty/mahogany_horticulturist_table": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
   "twigs:recipes/calcite/calcite_wall": {
     "criteria": {
       "has_item": "2024-12-14 17:36:50 -0500"
-    },
-    "done": true
-  },
-  "boatload:recipes/transportation/birch_furnace_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "crabbersdelight:recipes/building_blocks/crab_barrel": {
-    "criteria": {
-      "has_crab": "2024-12-14 17:50:36 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/transportation/echo_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2024-12-14 17:05:14 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/tw/biomesoplenty/mahogany_table": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/dark_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
     },
     "done": true
   },
@@ -7514,27 +6758,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_cupboard": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
   "twigs:recipes/calcite/calcite_slab_stonecutting": {
     "criteria": {
       "has_item": "2024-12-14 17:36:50 -0500"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/cave_pumpkin_pie": {
-    "criteria": {
-      "has_sugar": "2024-12-14 17:29:31 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_door": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
     },
     "done": true
   },
@@ -7550,105 +6776,9 @@
     },
     "done": true
   },
-  "yungscavebiomes:recipes/building_blocks/brittle_ancient_sandstone": {
-    "criteria": {
-      "has_sand": "2024-12-14 17:04:28 -0500"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cobbled_calcite_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-14 17:36:50 -0500"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-14 18:20:43 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_dining_bench": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_trim": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "boatload:recipes/transportation/crimson_furnace_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/magic_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/biomesoplenty/mahogany_ladder": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_bench": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/db/biomesoplenty/mahogany_seat": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2024-12-14 17:51:19 -0500"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_trim_1": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/dead_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "boatload:recipes/transportation/large_cherry_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2024-12-14 17:35:21 -0500"
-    },
-    "done": true
-  },
-  "aether_redux:recipes/transportation/fieldsproot_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
     },
     "done": true
   },
@@ -7670,21 +6800,87 @@
     },
     "done": true
   },
-  "netherexp:nether/overkill": {
-    "criteria": {
-      "overkill": "2024-12-14 17:32:15 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-14 18:01:11 -0500"
-    },
-    "done": true
-  },
   "twigs:recipes/calcite/calcite_stairs_stonecutting": {
     "criteria": {
       "has_item": "2024-12-14 17:36:50 -0500"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_slab": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-14 17:36:57 -0500"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-14 17:36:57 -0500"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-14 17:36:57 -0500"
+    },
+    "done": true
+  },
+  "twigs:recipes/amethyst_blocks/polished_amethyst": {
+    "criteria": {
+      "has_item": "2024-12-14 17:36:57 -0500"
+    },
+    "done": true
+  },
+  "twigs:recipes/amethyst_blocks/polished_amethyst_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-14 17:36:57 -0500"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_bricks_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-14 17:36:57 -0500"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-14 17:36:57 -0500"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-14 17:36:57 -0500"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-14 17:36:57 -0500"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-14 17:36:57 -0500"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_stairs": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-14 17:36:57 -0500"
+    },
+    "done": true
+  },
+  "twigs:recipes/amethyst_blocks/cut_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-14 17:36:57 -0500"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-14 17:36:57 -0500"
     },
     "done": true
   },
@@ -7694,27 +6890,801 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-14 18:19:38 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2024-12-14 17:32:10 -0500"
-    },
-    "done": true
-  },
   "galosphere:recipes/building_blocks/amethyst_stairs_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-14 17:36:57 -0500"
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/onion_crate": {
+  "aether:recipes/combat/bow_repairing": {
     "criteria": {
-      "has_onion": "2024-12-14 18:20:43 -0500"
+      "has_bow": "2024-12-14 17:39:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-14 17:39:20 -0500"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/cutting/ice_bow": {
+    "criteria": {
+      "has_bow": "2024-12-14 17:39:20 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bisque": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 17:50:36 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_crab": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 17:50:36 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/crab_cakes": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 17:50:36 -0500"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/crab_barrel": {
+    "criteria": {
+      "has_crab": "2024-12-14 17:50:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-14 17:51:19 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/stripped_mahogany_post": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_bench": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_lattice": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/mahogany_palisade": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_corner_trim": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_side_table": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_sanded_wood": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/vertical_mahogany_planks": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/mahogany_support": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/biomesoplenty/large_mahogany_boat": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/mahogany_banister": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/mahogany_post": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_counter": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_table": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_vertical_trim": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/biomesoplenty/mahogany_furnace_boat": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_chair": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_flower_box": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/mahogany_beam": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/biomesoplenty/mahogany_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/hollow_mahogany_log": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/mahogany_trapped_chest": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_fancy_bed": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_shutter": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_table": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_chair": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/biomesoplenty/mahogany_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/biomesoplenty/item_shelf_mahogany": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_desk": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_pillar_trim": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_couch": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_parquet": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_nightstand": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/hollow_mahogany_log": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/biomesoplenty/mahogany_beehive": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/mahogany_bookshelf": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vp/biomesoplenty/mahogany_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tw/biomesoplenty/mahogany_table": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_cupboard": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_dining_bench": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_trim": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/mahogany_ladder": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_bench": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/mahogany_seat": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_trim_1": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:01:11 -0500"
+    },
+    "done": true
+  },
+  "crabbersdelight:main/reach_for_the_sea_stars": {
+    "criteria": {
+      "crab_claw": "2024-12-14 18:03:02 -0500"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2024-12-14 18:06:18 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_warped_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/bamboo_furnace_raft": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_spruce_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/warped_furnace_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/mangrove_furnace_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/jungle_furnace_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_jungle_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/oak_furnace_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/acacia_furnace_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/wide_bamboo_raft": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_birch_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/spruce_furnace_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_oak_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_dark_oak_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_acacia_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/glacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/crystal_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/blightwillow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_crimson_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/cloudcap_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/jellyshroom_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/dark_oak_furnace_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/cherry_furnace_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/birch_furnace_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/crimson_furnace_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_cherry_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/fieldsproot_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 18:19:38 -0500"
     },
     "done": true
   },
@@ -7724,9 +7694,153 @@
     },
     "done": true
   },
-  "twilightdelight:recipes/frozen/cutting/ice_bow": {
+  "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
-      "has_bow": "2024-12-14 17:39:20 -0500"
+      "has_onion": "2024-12-14 18:20:43 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 18:20:43 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 18:20:43 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2024-12-14 18:20:43 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 18:20:43 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2024-12-14 18:20:43 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2024-12-16 20:53:58 -0500"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-16 20:53:58 -0500"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_tall_stool": {
+    "criteria": {
+      "has_wool": "2024-12-16 20:53:58 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-16 20:53:58 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2024-12-16 20:53:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-16 20:53:58 -0500"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_stool": {
+    "criteria": {
+      "has_wool": "2024-12-16 20:53:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-16 20:53:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-16 20:53:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-16 20:53:58 -0500"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2024-12-16 20:53:58 -0500"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2024-12-16 20:53:58 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2024-12-16 20:53:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-16 20:53:58 -0500"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_curtain": {
+    "criteria": {
+      "has_wool": "2024-12-16 20:53:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-16 20:53:58 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2024-12-16 20:53:58 -0500"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_lamp": {
+    "criteria": {
+      "has_wool": "2024-12-16 20:53:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-16 20:53:58 -0500"
     },
     "done": true
   },

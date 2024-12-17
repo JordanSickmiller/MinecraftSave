@@ -102,6 +102,7 @@
       "floodplain": "2024-12-12 16:50:08 -0500",
       "lush_savanna": "2024-12-10 21:19:33 -0500",
       "old_growth_woodland": "2024-12-10 21:19:32 -0500",
+      "crystalline_chasm": "2024-12-17 08:40:49 -0500",
       "overgrown_greens": "2024-12-14 18:08:10 -0500",
       "mediterranean_forest": "2024-12-12 16:38:56 -0500",
       "dryland": "2024-12-12 08:38:07 -0500",
@@ -111,6 +112,7 @@
       "volcano": "2024-12-10 21:23:16 -0500",
       "volcanic_plains": "2024-12-10 21:19:45 -0500",
       "grassland": "2024-12-14 18:08:56 -0500",
+      "undergrowth": "2024-12-17 08:43:04 -0500",
       "rainforest": "2024-12-10 21:19:39 -0500"
     },
     "done": false
@@ -7841,6 +7843,937 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-16 20:53:58 -0500"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2024-12-17 08:39:03 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/deep_aether/roseroot_side_table": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/deep_aether/roseroot_bench": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/deep_aether/roseroot_pillar_trim": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-17 08:45:43 -0500"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2024-12-17 08:40:39 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/deep_aether/roseroot_table": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2024-12-17 08:35:52 -0500"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/blue_gummy_swet": {
+    "criteria": {
+      "has_swet_ball": "2024-12-17 08:54:02 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-17 08:43:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-17 08:38:54 -0500"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/roseroot_stairs": {
+    "criteria": {
+      "has_roseroot_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/deep_aether/roseroot_couch": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_sticky_piston": {
+    "criteria": {
+      "has_swet_balls": "2024-12-17 08:54:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-17 08:38:54 -0500"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/decorations/skyroot_crafting_table": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 08:51:51 -0500"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
+    "criteria": {
+      "has_item": "2024-12-17 08:38:54 -0500"
+    },
+    "done": true
+  },
+  "ascended_quark:recipes/building_blocks/hollow_roseroot_log": {
+    "criteria": {
+      "has_roseroot_log": "2024-12-17 08:51:44 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/deep_aether/roseroot_dining_bench": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:05 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_axe": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/skyroot_bucket": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2024-12-17 08:50:02 -0500"
+    },
+    "done": true
+  },
+  "deep_aether:explore_aether": {
+    "criteria": {
+      "deep_aether:aerglow_forest": "2024-12-17 08:50:38 -0500",
+      "deep_aether:mystic_aerglow_forest": "2024-12-17 08:50:05 -0500"
+    },
+    "done": false
+  },
+  "deep_aether:recipes/decorations/roseroot_sign": {
+    "criteria": {
+      "has_roseroot_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tw/deep_aether/roseroot_table": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/combat/veridium_dart": {
+    "criteria": {
+      "has_feather": "2024-12-17 08:53:57 -0500"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
+    "criteria": {
+      "has_item": "2024-12-17 08:38:54 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/deep_aether/roseroot_parquet": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:05 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2024-12-17 08:35:51 -0500"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2024-12-17 08:42:40 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/deep_aether/roseroot_ladder": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/allurite_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-17 08:45:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-17 08:39:03 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/deep_aether/roseroot_beehive": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-17 08:38:54 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/deep_aether/roseroot_table": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/redstone/roseroot_button": {
+    "criteria": {
+      "has_roseroot_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_crafting_table": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-17 08:38:54 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_shovel": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/deep_aether/roseroot_chest": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2024-12-17 08:35:51 -0500"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/roseroot_slab": {
+    "criteria": {
+      "has_roseroot_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_pickaxe": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_slime_block": {
+    "criteria": {
+      "has_swet_balls": "2024-12-17 08:54:02 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/deep_aether/roseroot_flower_box": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/deep_aether/roseroot_post": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/deep_aether/roseroot_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-17 08:42:40 -0500"
+    },
+    "done": true
+  },
+  "ascended_quark:recipes/building_blocks/roseroot_trapped_chest": {
+    "criteria": {
+      "has_roseroot_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_axe_repairing": {
+    "criteria": {
+      "has_skyroot_axe": "2024-12-17 08:52:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-17 08:38:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-17 08:38:54 -0500"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/lumiere_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-17 08:45:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-17 08:38:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-17 08:38:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/vertical_roseroot_planks_from_roseroot_planks": {
+    "criteria": {
+      "has_roseroot_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/redstone/roseroot_fence_gate": {
+    "criteria": {
+      "has_roseroot_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/deep_aether/roseroot_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/decorations/roseroot_fence": {
+    "criteria": {
+      "has_roseroot_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/deep_aether/roseroot_furnace_boat": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "adorabuild_structures:nether_structures": {
+    "criteria": {
+      "example": "2024-12-17 08:40:39 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/deep_aether/roseroot_sanded_wood": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/deep_aether/roseroot_lattice": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-17 08:40:39 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/deep_aether/roseroot_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "ascended_quark:recipes/building_blocks/roseroot_ladder": {
+    "criteria": {
+      "has_roseroot_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-17 08:42:40 -0500"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2024-12-17 08:42:40 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/deep_aether/roseroot_banister": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-17 08:35:52 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/deep_aether/roseroot_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/roseroot_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 08:51:44 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/deep_aether/hollow_roseroot_log": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/deep_aether/roseroot_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/deep_aether/roseroot_chair": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/roseroot_planks": {
+    "criteria": {
+      "has_logs": "2024-12-17 08:51:44 -0500"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-17 08:45:43 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/deep_aether/large_roseroot_boat": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-17 08:38:54 -0500"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2024-12-17 08:53:57 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/deep_aether/roseroot_counter": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "ascended_quark:recipes/building_blocks/vertical_roseroot_planks": {
+    "criteria": {
+      "has_roseroot_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/deep_aether/roseroot_fancy_bed": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-17 08:38:54 -0500"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/blue_swet_jelly": {
+    "criteria": {
+      "has_swet_ball": "2024-12-17 08:54:02 -0500"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/transportation/roseroot_boat": {
+    "criteria": {
+      "has_roseroot_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-17 08:38:54 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vp/deep_aether/roseroot_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/deep_aether/roseroot_desk": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-17 08:38:54 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/deep_aether/roseroot_corner_trim": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/deep_aether/roseroot_trim_1": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2024-12-17 08:42:40 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/deep_aether/roseroot_support": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-17 08:40:39 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/deep_aether/roseroot_seat": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/skyroot_stick": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2024-12-17 08:35:51 -0500"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/decorations/blue_dye_from_iaspove": {
+    "criteria": {
+      "has_iaspove": "2024-12-17 08:53:57 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2024-12-17 08:43:12 -0500"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/rock_candy": {
+    "criteria": {
+      "has_rose_quartz": "2024-12-17 08:43:12 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/deep_aether/roseroot_cupboard": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-17 08:44:19 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2024-12-17 08:35:51 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/deep_aether/roseroot_bench": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/decorations/roseroot_wall": {
+    "criteria": {
+      "has_roseroot_log": "2024-12-17 08:51:44 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/deep_aether/roseroot_trim": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/deep_aether/roseroot_trapped_chest": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-17 08:35:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-17 08:38:54 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern": {
+    "criteria": {
+      "has_glowstone": "2024-12-17 08:45:43 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/deep_aether/vertical_roseroot_planks": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/deep_aether/item_shelf_roseroot": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2024-12-17 08:39:14 -0500"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/redstone/roseroot_trapdoor": {
+    "criteria": {
+      "has_roseroot_planks": "2024-12-17 08:52:05 -0500"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/decorations/aerglow_blossom_block": {
+    "criteria": {
+      "has_aerglow_blossom": "2024-12-17 08:52:47 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/deep_aether/roseroot_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/redstone/roseroot_pressure_plate": {
+    "criteria": {
+      "has_roseroot_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-17 08:38:54 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/deep_aether/roseroot_shutter": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "twigs:recipes/gravel_bricks/gravel_bricks": {
+    "criteria": {
+      "has_item": "2024-12-17 08:38:54 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/deep_aether/roseroot_palisade": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/swet_lead": {
+    "criteria": {
+      "has_swet_balls": "2024-12-17 08:54:02 -0500"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/skyroot_knife": {
+    "criteria": {
+      "has_skyroot_tool_crafting": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2024-12-17 08:50:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-17 08:38:54 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/deep_aether/roseroot_beam": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "ascended_quark:recipes/building_blocks/roseroot_chest": {
+    "criteria": {
+      "has_roseroot_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-17 08:40:39 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/gongylidia": {
+    "criteria": {
+      "gongylidia": "2024-12-17 08:34:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-17 08:35:51 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/deep_aether/roseroot_chair": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2024-12-17 08:35:51 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/deep_aether/roseroot_bookshelf": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/deep_aether/roseroot_vertical_trim": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-17 08:39:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-17 08:38:54 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_hoe": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:05 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2024-12-17 08:35:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-17 08:39:03 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2024-12-17 08:35:52 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2024-12-17 08:53:57 -0500"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2024-12-17 08:42:40 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/skyroot_sword": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:05 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2024-12-17 08:35:51 -0500"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/deep_aether/sign_post_roseroot": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/deep_aether/roseroot_nightstand": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile": {
+    "criteria": {
+      "has_obsidian": "2024-12-17 08:35:51 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/deep_aether/stripped_roseroot_post": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "ascended_quark:recipes/building_blocks/roseroot_bookshelf": {
+    "criteria": {
+      "has_roseroot_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-17 08:38:54 -0500"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/redstone/roseroot_door": {
+    "criteria": {
+      "has_roseroot_planks": "2024-12-17 08:52:04 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/deep_aether/hollow_roseroot_log": {
+    "criteria": {
+      "has_planks": "2024-12-17 08:52:05 -0500"
     },
     "done": true
   },

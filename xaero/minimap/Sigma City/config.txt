@@ -10,5 +10,7 @@ sortReversed:false
 ignoreHeightmaps:false
 
 //dimension types (DO NOT EDIT)
+dimensionType:aether$the_aether:aether$the_aether
 dimensionType:minecraft$overworld:minecraft$overworld
+dimensionType:minecraft$the_nether:minecraft$the_nether
 //server waypoints

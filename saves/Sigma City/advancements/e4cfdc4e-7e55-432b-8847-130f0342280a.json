@@ -8216,6 +8216,7 @@
   },
   "deep_aether:explore_aether": {
     "criteria": {
+      "aether:skyroot_grove": "2024-12-19 08:57:05 -0500",
       "deep_aether:aerglow_forest": "2024-12-17 08:50:38 -0500",
       "deep_aether:mystic_aerglow_forest": "2024-12-17 08:50:05 -0500",
       "aether:skyroot_meadow": "2024-12-18 19:42:36 -0500",
@@ -10715,15 +10716,111 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/tf/aether/skyroot_banister": {
+  "aether_redux:recipes/building_blocks/cloudcap_planks": {
     "criteria": {
-      "has_planks": "2024-12-18 21:16:33 -0500"
+      "has_log": "2024-12-18 20:52:45 -0500"
     },
     "done": true
   },
-  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+  "aether_redux:recipes/building_blocks/cloudcap_stem_wall": {
     "criteria": {
-      "has_victory_medal": "2024-12-18 21:18:16 -0500"
+      "has_cloudcap_stem": "2024-12-18 20:52:45 -0500"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/building_blocks/cloudcap_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-18 20:52:45 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_ring_repairing": {
+    "criteria": {
+      "has_zanite_ring": "2024-12-18 21:08:21 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2024-12-18 21:09:37 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/angelic_stairs": {
+    "criteria": {
+      "has_angelic_stone": "2024-12-18 21:14:44 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/angelic_wall_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2024-12-18 21:14:44 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/angelic_wall": {
+    "criteria": {
+      "has_angelic_stone": "2024-12-18 21:14:44 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/angelic_slab_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2024-12-18 21:14:44 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/pillar_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2024-12-18 21:14:44 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/light_angelic_stone_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2024-12-18 21:14:44 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/angelic_stairs_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2024-12-18 21:14:44 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/pillar_top_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2024-12-18 21:14:44 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/angelic_slab": {
+    "criteria": {
+      "has_angelic_stone": "2024-12-18 21:14:44 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_planks": {
+    "criteria": {
+      "has_logs": "2024-12-18 21:15:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hollow_skyroot_log_from_skyroot_log_stonecutting": {
+    "criteria": {
+      "has_skyroot_log": "2024-12-18 21:15:22 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 21:15:22 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/aether/skyroot_banister": {
+    "criteria": {
+      "has_planks": "2024-12-18 21:16:33 -0500"
     },
     "done": true
   },
@@ -10847,39 +10944,9 @@
     },
     "done": true
   },
-  "aether:black_moa": {
-    "criteria": {
-      "black_moa": "2024-12-18 21:39:31 -0500"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/angelic_stairs": {
-    "criteria": {
-      "has_angelic_stone": "2024-12-18 21:14:44 -0500"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/shield_repairing": {
-    "criteria": {
-      "has_shield": "2024-12-18 21:09:37 -0500"
-    },
-    "done": true
-  },
-  "aether_redux:recipes/building_blocks/cloudcap_planks": {
-    "criteria": {
-      "has_log": "2024-12-18 20:52:45 -0500"
-    },
-    "done": true
-  },
   "aether:recipes/combat/golden_dart_shooter": {
     "criteria": {
       "has_skyroot_planks": "2024-12-18 21:16:33 -0500"
-    },
-    "done": true
-  },
-  "aether_redux:recipes/building_blocks/cloudcap_stem_wall": {
-    "criteria": {
-      "has_cloudcap_stem": "2024-12-18 20:52:45 -0500"
     },
     "done": true
   },
@@ -10895,24 +10962,6 @@
     },
     "done": true
   },
-  "aether:recipes/decorations/angelic_wall_from_angelic_stone_stonecutting": {
-    "criteria": {
-      "has_angelic_stone": "2024-12-18 21:14:44 -0500"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/angelic_wall": {
-    "criteria": {
-      "has_angelic_stone": "2024-12-18 21:14:44 -0500"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/skyroot_planks": {
-    "criteria": {
-      "has_logs": "2024-12-18 21:15:22 -0500"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/aether/skyroot_desk": {
     "criteria": {
       "has_planks": "2024-12-18 21:16:33 -0500"
@@ -10922,12 +10971,6 @@
   "everycomp:recipes/decorations/q/aether/hollow_skyroot_log": {
     "criteria": {
       "has_planks": "2024-12-18 21:16:33 -0500"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
-    "criteria": {
-      "has_victory_medal": "2024-12-18 21:18:16 -0500"
     },
     "done": true
   },
@@ -10955,21 +10998,9 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/angelic_slab_from_angelic_stone_stonecutting": {
-    "criteria": {
-      "has_angelic_stone": "2024-12-18 21:14:44 -0500"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hnhome/aether/skyroot_lattice": {
     "criteria": {
       "has_planks": "2024-12-18 21:16:33 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hollow_skyroot_log_from_skyroot_log_stonecutting": {
-    "criteria": {
-      "has_skyroot_log": "2024-12-18 21:15:22 -0500"
     },
     "done": true
   },
@@ -10982,12 +11013,6 @@
   "everycomp:recipes/decorations/q/aether/skyroot_trapped_chest": {
     "criteria": {
       "has_planks": "2024-12-18 21:16:33 -0500"
-    },
-    "done": true
-  },
-  "aether_redux:recipes/building_blocks/cloudcap_hyphae": {
-    "criteria": {
-      "has_log": "2024-12-18 20:52:45 -0500"
     },
     "done": true
   },
@@ -11033,33 +11058,9 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/pillar_from_angelic_stone_stonecutting": {
-    "criteria": {
-      "has_angelic_stone": "2024-12-18 21:14:44 -0500"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/aether/skyroot_couch": {
     "criteria": {
       "has_planks": "2024-12-18 21:16:33 -0500"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/light_angelic_stone_from_angelic_stone_stonecutting": {
-    "criteria": {
-      "has_angelic_stone": "2024-12-18 21:14:44 -0500"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/skyroot_wood": {
-    "criteria": {
-      "has_log": "2024-12-18 21:15:22 -0500"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/angelic_stairs_from_angelic_stone_stonecutting": {
-    "criteria": {
-      "has_angelic_stone": "2024-12-18 21:14:44 -0500"
     },
     "done": true
   },
@@ -11093,12 +11094,6 @@
     },
     "done": true
   },
-  "deep_aether:recipes/combat/skyjade_chestplate_repairing": {
-    "criteria": {
-      "has_skyjade_chestplate": "2024-12-18 21:25:55 -0500"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/af/aether/skyroot_shelf": {
     "criteria": {
       "has_planks": "2024-12-18 21:16:33 -0500"
@@ -11108,12 +11103,6 @@
   "everycomp:recipes/decorations/hc/aether/skyroot_shelf": {
     "criteria": {
       "has_planks": "2024-12-18 21:16:33 -0500"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/pillar_top_from_angelic_stone_stonecutting": {
-    "criteria": {
-      "has_angelic_stone": "2024-12-18 21:14:44 -0500"
     },
     "done": true
   },
@@ -11141,12 +11130,6 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/angelic_slab": {
-    "criteria": {
-      "has_angelic_stone": "2024-12-18 21:14:44 -0500"
-    },
-    "done": true
-  },
   "aether:recipes/redstone/skyroot_pressure_plate": {
     "criteria": {
       "has_skyroot_planks": "2024-12-18 21:16:33 -0500"
@@ -11162,12 +11145,6 @@
   "everycomp:recipes/decorations/tw/aether/skyroot_table": {
     "criteria": {
       "has_planks": "2024-12-18 21:16:33 -0500"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/zanite_ring_repairing": {
-    "criteria": {
-      "has_zanite_ring": "2024-12-18 21:08:21 -0500"
     },
     "done": true
   },
@@ -11198,6 +11175,78 @@
   "aether:recipes/building_blocks/skyroot_slab": {
     "criteria": {
       "has_skyroot_planks": "2024-12-18 21:16:33 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_victory_medal": "2024-12-18 21:18:16 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_victory_medal": "2024-12-18 21:18:16 -0500"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/combat/skyjade_chestplate_repairing": {
+    "criteria": {
+      "has_skyjade_chestplate": "2024-12-18 21:25:55 -0500"
+    },
+    "done": true
+  },
+  "aether:black_moa": {
+    "criteria": {
+      "black_moa": "2024-12-18 21:39:31 -0500"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/misc/smelt_raw_veridium": {
+    "criteria": {
+      "has_raw_veridium": "2024-12-19 08:31:58 -0500"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/combat/skyjade_leggings_repairing": {
+    "criteria": {
+      "has_skyjade_leggings": "2024-12-19 08:26:35 -0500"
+    },
+    "done": true
+  },
+  "lost_aether_content:recipes/incubation/brown_moa_incubation": {
+    "criteria": {
+      "has_brown_moa_egg": "2024-12-19 08:44:07 -0500"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/combat/skyjade_helmet_repairing": {
+    "criteria": {
+      "has_skyjade_helmet": "2024-12-19 08:26:43 -0500"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/building_blocks/raw_veridium_block": {
+    "criteria": {
+      "has_raw_veridium": "2024-12-19 08:31:58 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_pickaxe_repairing": {
+    "criteria": {
+      "has_zanite_pickaxe": "2024-12-19 08:41:02 -0500"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/misc/blast_raw_veridium": {
+    "criteria": {
+      "has_raw_veridium": "2024-12-19 08:31:58 -0500"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/combat/skyjade_boots_repairing": {
+    "criteria": {
+      "has_skyjade_boots": "2024-12-19 08:26:49 -0500"
     },
     "done": true
   },

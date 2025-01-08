@@ -12151,6 +12151,36 @@
     },
     "done": true
   },
+  "aether_redux:recipes/combat/ring_of_wisdom": {
+    "criteria": {
+      "has_the_recipe": "2025-01-07 08:32:15 -0500"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2025-01-07 08:35:46 -0500"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-01-07 08:36:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-07 08:36:48 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2025-01-07 08:37:27 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-01-07 08:37:57 -0500"
@@ -12172,12 +12202,6 @@
   "supplementaries:recipes/sign_post_dark_oak": {
     "criteria": {
       "has_the_recipe": "2025-01-07 08:47:32 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-01-07 08:49:08 -0500"
     },
     "done": true
   },
@@ -12211,12 +12235,6 @@
     },
     "done": true
   },
-  "aether_redux:recipes/combat/ring_of_wisdom": {
-    "criteria": {
-      "has_the_recipe": "2025-01-07 08:32:15 -0500"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_shelf": {
     "criteria": {
       "has_dark_oak_shelf": "2025-01-07 08:47:32 -0500"
@@ -12226,12 +12244,6 @@
   "handcrafted:recipes/misc/dark_oak_dining_bench": {
     "criteria": {
       "has_dark_oak_dining_bench": "2025-01-07 08:47:32 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-01-07 08:49:08 -0500"
     },
     "done": true
   },
@@ -12259,12 +12271,6 @@
     },
     "done": true
   },
-  "illagerinvasion:recipes/misc/platinum_sheet": {
-    "criteria": {
-      "has_platinum_chunk": "2025-01-07 08:36:06 -0500"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_pillar_trim": {
     "criteria": {
       "has_dark_oak_pillar_trim": "2025-01-07 08:47:32 -0500"
@@ -12280,12 +12286,6 @@
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_planks": "2025-01-07 08:47:32 -0500"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-01-07 08:36:48 -0500"
     },
     "done": true
   },
@@ -12385,15 +12385,15 @@
     },
     "done": true
   },
-  "aether:recipes/combat/crossbow_repairing": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_crossbow": "2025-01-07 08:37:27 -0500"
+      "has_smithing_trim_template": "2025-01-07 08:49:08 -0500"
     },
     "done": true
   },
-  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
-      "has_silver_nugget": "2025-01-07 08:35:46 -0500"
+      "has_coast_armor_trim_smithing_template": "2025-01-07 08:49:08 -0500"
     },
     "done": true
   },

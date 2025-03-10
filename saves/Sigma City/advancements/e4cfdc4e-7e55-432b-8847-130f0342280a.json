@@ -12401,18 +12401,6 @@
     },
     "done": true
   },
-  "betternether:recipes/transportation/crimson_boat": {
-    "criteria": {
-      "has_crimson_planks": "2025-03-07 08:53:09 -0500"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_side_table": {
-    "criteria": {
-      "has_crimson_side_table": "2025-03-07 08:53:09 -0500"
-    },
-    "done": true
-  },
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:upside_down_forest_cleared": "2025-03-07 08:35:38 -0500",
@@ -12430,6 +12418,48 @@
       "minecraft:warped_forest": "2025-03-07 08:44:22 -0500"
     },
     "done": false
+  },
+  "betternether:recipes/misc/bn_red_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_red": "2025-03-07 08:36:36 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_burning_blossom": "2025-03-07 08:39:50 -0500"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/strider_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-07 08:42:03 -0500"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/strider_and_grilled_fungus": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-07 08:42:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-03-07 08:42:03 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/crimson_boat": {
+    "criteria": {
+      "has_crimson_planks": "2025-03-07 08:53:09 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_side_table": {
+    "criteria": {
+      "has_crimson_side_table": "2025-03-07 08:53:09 -0500"
+    },
+    "done": true
   },
   "supplementaries:recipes/decorations/sign_post_crimson": {
     "criteria": {
@@ -12482,12 +12512,6 @@
   "handcrafted:recipes/misc/crimson_nightstand": {
     "criteria": {
       "has_crimson_nightstand": "2025-03-07 08:53:09 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
-    "criteria": {
-      "has_burning_blossom": "2025-03-07 08:39:50 -0500"
     },
     "done": true
   },
@@ -12551,12 +12575,6 @@
     },
     "done": true
   },
-  "mynethersdelight:recipes/cooking/strider_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-07 08:42:03 -0500"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/building_blocks/crimson_support": {
     "criteria": {
       "has_plank": "2025-03-07 08:53:09 -0500"
@@ -12566,12 +12584,6 @@
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-07 08:53:09 -0500"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/strider_and_grilled_fungus": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-07 08:42:03 -0500"
     },
     "done": true
   },
@@ -12605,12 +12617,6 @@
     },
     "done": true
   },
-  "betternether:recipes/misc/bn_red_mushroom": {
-    "criteria": {
-      "has_wall_mushroom_red": "2025-03-07 08:36:36 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2025-03-07 08:53:09 -0500"
@@ -12641,12 +12647,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
-    "criteria": {
-      "has_warped_fungus": "2025-03-07 08:42:03 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-03-07 08:53:09 -0500"
@@ -12674,6 +12674,84 @@
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-07 08:53:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-10 08:38:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-10 08:49:25 -0400"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/brick_pot": {
+    "criteria": {
+      "has_nether_brick": "2025-03-10 08:56:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-03-10 08:49:25 -0400"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
+    "criteria": {
+      "has_nether_brick": "2025-03-10 08:56:28 -0400"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/crimson_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-03-10 08:49:25 -0400"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/basalt_stalactite_basalt": {
+    "criteria": {
+      "has_basalt_stalactite": "2025-03-10 08:30:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-03-10 08:36:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-03-10 08:38:06 -0400"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/cincinnasite_brick_plate": {
+    "criteria": {
+      "has_nether_brick": "2025-03-10 08:56:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-03-10 08:56:28 -0400"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-03-10 08:56:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-03-10 08:49:25 -0400"
     },
     "done": true
   },

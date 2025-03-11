@@ -12677,42 +12677,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-03-10 08:38:06 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-03-10 08:49:25 -0400"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/brick_pot": {
-    "criteria": {
-      "has_nether_brick": "2025-03-10 08:56:28 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-03-10 08:49:25 -0400"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
-    "criteria": {
-      "has_nether_brick": "2025-03-10 08:56:28 -0400"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/crimson_beam": {
-    "criteria": {
-      "has_stripped_log": "2025-03-10 08:49:25 -0400"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/basalt_stalactite_basalt": {
     "criteria": {
       "has_basalt_stalactite": "2025-03-10 08:30:36 -0400"
@@ -12725,9 +12689,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-10 08:38:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_rib_armor_trim_smithing_template": "2025-03-10 08:38:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-10 08:49:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-03-10 08:49:25 -0400"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/crimson_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-03-10 08:49:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-03-10 08:49:25 -0400"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/brick_pot": {
+    "criteria": {
+      "has_nether_brick": "2025-03-10 08:56:28 -0400"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
+    "criteria": {
+      "has_nether_brick": "2025-03-10 08:56:28 -0400"
     },
     "done": true
   },
@@ -12749,9 +12755,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+  "backpacked:recipes/misc/backpack": {
     "criteria": {
-      "has_log": "2025-03-10 08:49:25 -0400"
+      "has_the_recipe": "2025-03-11 08:41:45 -0400"
     },
     "done": true
   },
